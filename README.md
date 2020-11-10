@@ -29,6 +29,9 @@ Best video lecture: Tom Leighton’s MIT 6.042J<br>
 **Week 6-7:** Operating Systems (https://teachyourselfcs.com/#operating-systems)<br>
 Best book: *Operating Systems: Three Easy Pieces*<br>
 Best video lecture: Berkeley CS 162<br>
+
+README.md
+
 <br>
 **Week 7-8:** Computer Networking (https://teachyourselfcs.com/#networking)<br>
 Best book: *Computer Networking: A Top-Down Approach*<br>
